@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VictoriaBarragan, I`m a System Engeneer, I`m from Colombia.
+- 👋 Hi, I’m @VictoriaBarragan, I'm a System Engeneer, I'm from Colombia.
 - 👀 I’m interested in learnnig more about programming, Git and Github.
 - 🌱 I’m looking for an apportunity in programming area, I am in a process of reinvention in the work and professional sense.
 - 💞️ I’m looking to collaborate on front end.
